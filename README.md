@@ -16,3 +16,7 @@ High Availability AWS Architecture with AWS CLI which includes EC2, EBS, S3 and 
 # Note  
 - This is bash script, so will not work on Windows CMD, so choose a Supported Linux Platform to run  
 - This script will use default profile of AWS CLI  
+
+# Links
+Blog - https://amanjhagrolia.medium.com/aws-architecture-with-cli-script-a02715e7b323  
+Video - https://youtu.be/jBAW7lTQsTY  
